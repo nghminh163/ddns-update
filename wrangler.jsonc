@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "ddns-update",
+	"name": "cf-ddns-update",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-02-19",
 	"observability": {
