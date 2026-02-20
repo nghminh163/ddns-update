@@ -2,7 +2,7 @@
 	"name": "ddns-update",
 	"version": "0.0.0",
 	"private": true,
-	 "packageManager": "yarn@4.9.1",
+	"packageManager": "yarn@4.9.1",
 	"scripts": {
 		"deploy": "wrangler deploy",
 		"dev": "wrangler dev",
